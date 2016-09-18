@@ -1,4 +1,7 @@
 # CoriandoloRadio
+This respository (as well as this README file) is UNDER DEVELOPMENT.
+Please be patient as I upload content and learn to use GitHub.
+
 This respository contains source code for Coriandolo Radio protocol; it also contains documentation, "wrappers" and example code.
 
 This code executes on the Nordic Semiconductor nRF51 processor (any device in that family).  A software version is planned for the Nordic Semiconductor nRF52 processor.  Versions for other CPU/Radio combinations are possible, but not planned at this time.
