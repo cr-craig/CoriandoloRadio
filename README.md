@@ -9,7 +9,10 @@ This code executes on the Nordic Semiconductor nRF51 processor (any device in th
 The software was developed and tested using the Keil IDE.  A free version for Cortex-M0 processors is available from Keil.
 
 
-EXPECTED OUTLINE OF THIS FILE
-1) Download information
-2) Directory structure of zip file
-3) Contact information
+Files in repository
+
+2016-09-18 1038 CR Protocol Release.zip  -- contains all of the source code for Coriandolo Radio Protocol
+
+2016-09-18 1038 CR Protocol Coxygen Output.zip -- contains html files of Doxygen documentation
+
+
