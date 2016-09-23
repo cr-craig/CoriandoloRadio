@@ -1,7 +1,4 @@
 # CoriandoloRadio
-This respository (as well as this README file) is UNDER DEVELOPMENT.
-Please be patient as I upload content and learn to use GitHub.
-
 This respository contains source code for Coriandolo Radio protocol; it also contains documentation, "wrappers" and example code.
 
 This code executes on the Nordic Semiconductor nRF51 processor (any device in that family).  A software version is planned for the Nordic Semiconductor nRF52 processor.  Versions for other CPU/Radio combinations are possible, but not planned at this time.
@@ -11,8 +8,9 @@ The software was developed and tested using the Keil IDE.  A free version for Co
 
 Files in repository
 
-2016-09-18 1038 CR Protocol Release.zip  -- contains all of the source code for Coriandolo Radio Protocol
+"2016-09-18 1038 CR Protocol Release.zip"  -- contains all of the source code for Coriandolo Radio Protocol
 
-2016-09-18 1038 CR Protocol Coxygen Output.zip -- contains html files of Doxygen documentation
+"2016-09-18 1038 CR Protocol Coxygen Output.zip" -- contains html files of Doxygen documentation
 
+"A brief description of Coriandolo Radio.pdf" -- documentation of Coriandolo Radio protocol
 
