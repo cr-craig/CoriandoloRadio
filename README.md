@@ -10,7 +10,7 @@ Files in repository
 
 "2016-09-18 1038 CR Protocol Release.zip"  -- contains all of the source code for Coriandolo Radio Protocol
 
-"2016-09-18 1038 CR Protocol Coxygen Output.zip" -- contains html files of Doxygen documentation
+"2016-09-18 1038 CR Protocol Doxygen Output.zip" -- contains html files of Doxygen documentation
 
 "A brief description of Coriandolo Radio.pdf" -- documentation of Coriandolo Radio protocol
 
