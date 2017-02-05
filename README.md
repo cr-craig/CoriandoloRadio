@@ -8,9 +8,12 @@ The software was developed and tested using the Keil IDE.  A free version for Co
 
 Files in repository
 
-"2016-09-18 1038 CR Protocol Release.zip"  -- contains all of the source code for Coriandolo Radio Protocol
+"2017-02-04 1846 CR Protocol Release.zip"  -- contains all of the source code for Coriandolo Radio Protocol
 
-"2016-09-18 1038 CR Protocol Doxygen Output.zip" -- contains html files of Doxygen documentation
+"2017-02-04 1846 CR Protocol Doxygen Output.zip" -- contains html files of Doxygen documentation
 
 "A brief description of Coriandolo Radio.pdf" -- documentation of Coriandolo Radio protocol
+
+Please Note:  I am working on a transmit message SYNC option; this option may be selected, but it is not operational.
+
 
