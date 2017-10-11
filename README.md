@@ -16,6 +16,8 @@ Files in repository
 
 "A brief description of Coriandolo Radio.pdf" -- documentation of Coriandolo Radio protocol
 
+"Selecting Microprocessor for Coriandolo Radio" -- instructions to select either nR51822 and nRF52840 microprocessor as Keil target.
+
 
 Radio hardware driver code for both nRF51 and nRF52840 processors are included in the release.  Also included is the "CR Simple" wrapper - an easier to use API for CR.
 
