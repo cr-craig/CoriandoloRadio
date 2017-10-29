@@ -9,10 +9,11 @@ This code has been downloaded and run on the CR1 DevKit hardware.  Information a
 
 
 Files in repository
+IMPORTANT NOTE: Release on 2017-10-29 contains a correction in the radio hardware drivers.  Sometime this spring, an unintentionaly change was made to the register settings for the radio addresses used by Coriandolo Radio.  Although this change was internally consistent (SENOR and BASE could communicate), the radio addresses did not match the documentation.  The 2017-10-29 release corrects this.
 
-"2017-09-24 1539 CR Protocol Release.zip"  -- contains all of the source code for Coriandolo Radio Protocol 
+"2017-10-29 1130 CR Protocol Release.zip"  -- contains all of the source code for Coriandolo Radio Protocol 
 
-"2017-02-24 1540 CR Protocol Doxygen Output.zip" -- contains html files of Doxygen documentation
+"2017-10-29 1134 CR Protocol Doxygen Output.zip" -- contains html files of Doxygen documentation
 
 "A brief description of Coriandolo Radio.pdf" -- documentation of Coriandolo Radio protocol
 
